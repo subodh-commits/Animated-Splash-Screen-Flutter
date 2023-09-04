@@ -1,2 +1,2 @@
 # Animated-Splash-Screen-Flutter
-Animated splash screen in flutter application using native android and ios
+Animated splash screen in flutter application using native android and iOS code.
